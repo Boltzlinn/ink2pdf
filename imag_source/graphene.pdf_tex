@@ -1,0 +1,101 @@
+%% Creator: Inkscape 1.0 (4035a4fb49, 2020-05-01), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'graphene.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{213.2202134bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.66968321)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{graphene.pdf}}%
+    \put(0.40800858,0.63974795){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}${\color{red}A_2}$\end{tabular}}}}%
+    \put(0.314509,0.32039239){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}$\bm{a}_2$\end{tabular}}}}%
+    \put(0.45445265,0.32039044){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\bm{a}_1$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{graphene.pdf}}%
+    \put(0.16761105,0.16927515){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma_0$\end{tabular}}}}%
+    \put(0.06133703,0.14994484){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}$\gamma_1$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{graphene.pdf}}%
+    \put(0.15977673,0.28676066){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma_3$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{graphene.pdf}}%
+    \put(0.08221215,0.24003086){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}$\gamma_4$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{graphene.pdf}}%
+    \put(0.25182988,0.23298168){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varepsilon_0$\end{tabular}}}}%
+    \put(0.49996019,0.58648844){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}${\color{blue}B_2}$\end{tabular}}}}%
+    \put(0.49937524,0.05975747){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}${\color{red}A_1}$\end{tabular}}}}%
+    \put(0.40819245,0.00590829){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}${\color{blue}B_1}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{graphene.pdf}}%
+    \put(0.12269148,0.42964622){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\bm{\delta}_1$\end{tabular}}}}%
+    \put(0.15460354,0.37340398){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\bm{\delta}_2$\end{tabular}}}}%
+    \put(0.06830226,0.37331258){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}$\bm{\delta}_3$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{graphene.pdf}}%
+    \put(0.05850075,0.52832484){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}$a$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{graphene.pdf}}%
+    \put(0.94754079,0.25468255){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}$\bm{G}_1$\end{tabular}}}}%
+    \put(0.66482598,0.25409111){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\bm{G}_2$\end{tabular}}}}%
+    \put(0.80861466,0.12321783){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\Gamma$\end{tabular}}}}%
+    \put(0.92495291,0.1478538){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{+}$\end{tabular}}}}%
+    \put(0.68751387,0.14792542){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}$K_{-}$\end{tabular}}}}%
+    \put(0.69733935,0.5779833){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}${\color{red}A_1}$\end{tabular}}}}%
+    \put(0.80116184,0.57748403){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}${\color{blue}B_1}$\end{tabular}}}}%
+    \put(0.80414609,0.39079801){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}${\color{red}A_2}$\end{tabular}}}}%
+    \put(0.91174435,0.39100237){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}${\color{blue}B_2}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{graphene.pdf}}%
+    \put(0.77191611,0.48838485){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}$d$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{graphene.pdf}}%
+    \put(0.68854159,0.40120916){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$y$\end{tabular}}}}%
+    \put(0.64793033,0.45132086){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$z$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{graphene.pdf}}%
+    \put(0.05539348,0.01428537){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$x$\end{tabular}}}}%
+    \put(0.01470111,0.06715255){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$y$\end{tabular}}}}%
+    \put(0.95994651,0.50160809){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$D$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{graphene.pdf}}%
+    \put(0.68854159,0.01428557){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$k_x$\end{tabular}}}}%
+    \put(0.64784932,0.06715255){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$k_y$\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
