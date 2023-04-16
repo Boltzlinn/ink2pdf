@@ -1,0 +1,16 @@
+\ifdefined\fname
+  
+\else
+  \def\fname{graphene}
+\fi
+\documentclass[multi=figure]{standalone}
+\usepackage{graphicx,amsmath, bm, amsfonts, bbm,color}
+\graphicspath{{imag_source/}}
+
+\renewenvironment{figure}{\ignorespaces}{\unskip}
+\renewcommand{\caption}[2][]{\ignorespaces}
+\let\efloatseparator=\empty
+
+\begin{document}
+\input{ink2fff.fff}% previously created fff file
+\end{document}
