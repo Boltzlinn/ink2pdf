@@ -1,94 +1,30 @@
-% \documentclass[aps, prx, reprint, showpacs, superscriptaddress]{revtex4-2}
 \ifdefined\fname
   
 \else
   \def\fname{graphene}
 \fi
 \documentclass{article}
-\usepackage{graphicx}%graph including
+\usepackage{graphicx}
 \graphicspath{{imag_source/}}
-\usepackage{amsmath, bm, amsfonts, bbm}%math package
+\usepackage{amsmath, bm, amsfonts, bbm}
 \usepackage{hyperref}%
 \usepackage{tikz}
 \usepackage{endfloat}
 \usepackage{color}
-
-% \usepackage{natbib}
-
-\newcommand{\pd}[3]{\left(\frac{\partial #1}{\partial #2} \right)_{#3}}
-\newcommand{\rd}{\textrm{d}}
-\newcommand{\re}{\textrm{e}}
-\newcommand{\inp}[2]{\langle#1|#2\rangle}
-\newcommand{\ket}[1]{|#1\rangle}
-\newcommand{\bra}[1]{\langle#1|}
-\newcommand{\ave}[1]{\langle #1 \rangle}
-\makeatletter
-\newcommand*{\rom}[1]{\expandafter\@slowromancap\romannumeral #1@}
-\makeatother
 
 
 \makeatletter
 \efloat@openpost{fff}
 \efloat@iwrite{fff}% pass \textwidth to fff file
 \makeatother
-%package end
 
 \begin{document}
-
-
-% \title{My Imags}
-% \author{Yuelin Shao}
-% \email{ylshao@iphy.ac.cn}
-% \affiliation{Beijing National Laboratory for Condensed Matter Physics and Institute of Physics, Chinese Academy of Sciences,
-% Beijing 100190, China}
-% \affiliation{School of Physical Sciences, University of Chinese Academy of Sciences, Beijing 100049, China}
-
-% \date{\today}
-
-% \begin{abstract}
-
-
-% \end{abstract}
-% \pacs{}
-% \maketitle
-%text begin
-
-
-% \begin{figure}
-%   \centering
-%   \def\svgwidth{0.75\linewidth}
-%   \input{imags/graphene.pdf_tex}
-%   \caption{$AB$ stacking bilayer graphene}
-% \end{figure}
-
-% \begin{figure}
-%   \centering
-%   \def\svgwidth{0.75\linewidth}
-%   \input{imags/physical_pictures.pdf_tex}
-%   \caption{Electrical Breakdown}
-% \end{figure}
-
-% \begin{figure}
-%   \centering
-%   \def\svgwidth{0.75\linewidth}
-%   \input{imags/tunnel_band_inversion.pdf_tex}
-%   \caption{Zener tunneling with band inversion}
-% \end{figure}
-
 
 \begin{figure}
   \centering
   \def\svgwidth{0.75\linewidth}
   \input{imag_source/"\fname".pdf_tex}
 \end{figure}
-
-
-%text end
-
-%The following are about bibliography, uncomment then if needed	
-%\bibliography{ref.bib}
-%\bibliographystyle{unsrtnat}
-%bibliography end
 
 \end{document}
 
